@@ -1,5 +1,5 @@
 # Hi, I'm Vijayalakshmi S! 👋  
-**Aspiring Software & AI Developer | Lifelong Learner**
+**Aspiring Software & AI Developer | Continuous Learner**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=vercel)](https://myportfolio-amber-ten-96.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vijayalakshmi-s-535666299)
@@ -10,14 +10,6 @@
 🎓 **B.Tech CSE (Artificial Intelligence and Data Science)** | Sastra University  
 📚 Minor Specialization in Supply Chain & Project Management  
 💡 Exploring ML, Full-Stack Dev & Real-World Tech Solutions  
-
----
-
-### 🛠️ Skills  
-`Python` `C++` `Java` `SQL` `Angular` `Android` `Django`  
-`Machine Learning` `OpenCV` `Firebase` `MySQL` `Git`
-
----
 
 ### ⚡ Recent Projects  
 - **Discussion Forum Web App** – Angular + Node.js + MySQL  
